@@ -19,3 +19,5 @@ Ins::
 код скрипта 2
 }
 return
+
+для использования скрипта вам необходимо скачать autohotkey (https://www.autohotkey.com/?ref=pf-code)
